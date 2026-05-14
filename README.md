@@ -18,6 +18,8 @@ Designed and programmed a physics-based Digital Twin to virtually commission a S
 
 ![One Network for the PLC project.](plc_example.png)
 
+![Snippet of the animation paired with the PLC logic.](unity_demo.png)
+
 ## Demo
 ![Animated demo](demo.mov)
 
