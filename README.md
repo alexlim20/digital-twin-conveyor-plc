@@ -8,7 +8,7 @@ Designed and programmed a physics-based Digital Twin to virtually commission a S
 + **Networking / Middleware** → NetToPLCsim, C#, S7.Net Library
 
 ## System Architecture
-![](diagram (1).png)
+![Flow Chart of Connection between all the components.](diagram(1).png)
 
 ## Key Features & Problem Solving
 + **Physics-Based Material Handling**: Implemented rigidbodies and custom convezor physics in Unity to simulate gravity, friction, and material flow, replacing standard "teleportation" scripts.
